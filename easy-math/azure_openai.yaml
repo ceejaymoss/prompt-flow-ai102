@@ -1,0 +1,6 @@
+$schema: https://azuremlschemas.azureedge.net/promptflow/latest/AzureOpenAIConnection.schema.json
+name: open_ai_connection
+type: azure_open_ai
+api_key: "2TgOf583PjHHVOXoUDLwuvrzwmmM1EZPjdkqN8sfsUkUgVathGlbJQQJ99ALAC4f1cMXJ3w3AAAAACOG6vKU"
+api_base: "https://aiwestusprojec7014215852.openai.azure.com/"
+api_type: "azure"
